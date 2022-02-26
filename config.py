@@ -1,0 +1,2 @@
+cloudM = "anina"
+cloudMpassword = "bWtZfCTdswANUPBB"
